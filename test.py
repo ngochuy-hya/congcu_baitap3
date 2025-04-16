@@ -1,1 +1,1 @@
-print("Chao mung ban den voi mon Cong cu va moi truong phat trien phan mem")
+print("Chao mung ban den voi mon Cong cu, moi truong phat trien phan mem")
